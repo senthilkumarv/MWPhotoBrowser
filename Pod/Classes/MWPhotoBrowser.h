@@ -71,5 +71,6 @@
 // Navigation
 - (void)showNextPhotoAnimated:(BOOL)animated;
 - (void)showPreviousPhotoAnimated:(BOOL)animated;
+- (void)showGridAnimated;
 
 @end
